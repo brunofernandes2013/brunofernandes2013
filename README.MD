@@ -28,7 +28,9 @@
 <br />
 
 ---
-  [![brunofernandes2013's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofernandes2013)](https://github.com/anuraghazra/github-readme-stats)
+  ![brunofernandes2013's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofernandes2013&count_private=true&theme=radical)
+
+
 
 
 
