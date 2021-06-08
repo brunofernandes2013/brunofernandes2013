@@ -1,7 +1,5 @@
 ### Hi there, I'm Bruno Fernandes - aka yuri 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/codeSTACKr&screen_name=BrunFernandes32)
-
 - 🌱 I’m currently working in a project called "BrainStock"
 - 👯 I’m looking to learning more technologies 
 - 🥅 2021 Goals: Graduate and join university
@@ -12,7 +10,6 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />][spotify]
 
 <br />
@@ -53,9 +50,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
 [spotify]: https://open.spotify.com/user/11170819534
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/BrunFernandes32
+[youtube]: https://www.youtube.com/channel/UC27wX0Lj7pmymYPfEN972yA
+[linkedin]: https://www.linkedin.com/in/bruno-fernandes-b187991bb/
