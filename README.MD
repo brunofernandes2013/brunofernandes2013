@@ -29,7 +29,7 @@
 
 ---
   ![brunofernandes2013's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunofernandes2013&count_private=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofernandes2013&layout=compact&count_private=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunofernandes2013&layout=compact)
 
 
 
